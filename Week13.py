@@ -101,7 +101,7 @@ print("u =", u)
 print("v =", v)
 print("u x v =", cross_product)
 print(f"평행사변형의 넓이 = {parallelogram_area: .6f}")
-print(f"삼각형의 젋이 = {triangle_area:.6f}")
+print(f"삼각형의 넓이 = {triangle_area:.6f}")
 
 #실습4
 print("\n--------------------실습 4--------------------")
